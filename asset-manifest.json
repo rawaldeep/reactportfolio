@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.5bc2edef.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.bfe1ce3e.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.bfe1ce3e.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.53cc0431.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.53cc0431.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/reactportfolio/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.aa3b9220.chunk.js": "/reactportfolio/static/js/2.aa3b9220.chunk.js",
+    "static/js/2.aa3b9220.chunk.js.map": "/reactportfolio/static/js/2.aa3b9220.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.9e5a7f0ecf9c53e999ca86dde0e2e5ed.js": "/reactportfolio/precache-manifest.9e5a7f0ecf9c53e999ca86dde0e2e5ed.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/reactportfolio/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5bc2edef.chunk.css.map": "/reactportfolio/static/css/main.5bc2edef.chunk.css.map",
+    "static/js/2.aa3b9220.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.aa3b9220.chunk.js.LICENSE.txt",
+    "static/media/404.jpeg": "/reactportfolio/static/media/404.d38b8412.jpeg",
+    "static/media/FantastischBelgisch.jpeg": "/reactportfolio/static/media/FantastischBelgisch.d2886d6d.jpeg",
+    "static/media/PRiZM.jpeg": "/reactportfolio/static/media/PRiZM.0cf9f167.jpeg",
+    "static/media/Rawaldeep's Resume[en].pdf": "/reactportfolio/static/media/Rawaldeep's Resume[en].0b81b0e0.pdf",
+    "static/media/UwBouwdroger.jpeg": "/reactportfolio/static/media/UwBouwdroger.4c35636a.jpeg",
+    "static/media/VIAImmobilien.jpeg": "/reactportfolio/static/media/VIAImmobilien.11b95dca.jpeg",
+    "static/media/about2.jpg": "/reactportfolio/static/media/about2.eda25f9e.jpg",
+    "static/media/about3.jpg": "/reactportfolio/static/media/about3.3e233e23.jpg",
+    "static/media/groversgsm.png": "/reactportfolio/static/media/groversgsm.286589e1.png",
+    "static/media/omegafinancial.jpeg": "/reactportfolio/static/media/omegafinancial.3468e7aa.jpeg",
+    "static/media/rawaldeep_home.png": "/reactportfolio/static/media/rawaldeep_home.448c2aca.png",
+    "static/media/resume1.png": "/reactportfolio/static/media/resume1.fe29438c.png",
+    "static/media/resume2.png": "/reactportfolio/static/media/resume2.c6b01c13.png",
+    "static/media/resume3.png": "/reactportfolio/static/media/resume3.2f5940dc.png",
+    "static/media/revamp.jpeg": "/reactportfolio/static/media/revamp.f15c26aa.jpeg",
+    "static/media/warda.jpeg": "/reactportfolio/static/media/warda.cbbf4ef8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53cc0431.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.aa3b9220.chunk.js",
+    "static/css/main.5bc2edef.chunk.css",
+    "static/js/main.bfe1ce3e.chunk.js"
+  ]
+}
